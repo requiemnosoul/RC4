@@ -1,4 +1,4 @@
-# rc4
+# RC4
 Encryption algorithm RC4
 
 Алгоритм реализован на языке C# с помощью .NET Framework WinForms.
